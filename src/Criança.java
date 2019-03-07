@@ -8,7 +8,7 @@
         //atributos
 
             void brincar() {
-                System.out.println(" Brincndo... ");
+                System.out.println(" Brincando... ");
 
             }
 
