@@ -6,7 +6,7 @@
         int idade;
 
         //atributos
-        
+
             void brincar() {
                 System.out.println(" Brincndo... ");
 
