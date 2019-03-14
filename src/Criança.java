@@ -15,4 +15,10 @@
             void correr() {
                 System.out.println(" Correndo... ");
             }
+            void nadar( double metros ){
+                System.out.println(" Nadando "  + metros + "metros ");
+            }
+            String sorrir(){
+                return " :) ";
+            }
     }
