@@ -10,7 +10,7 @@
             void brincar() {
                 System.out.println(" Brincando... ");
             }
-            void correr() {
+            void correr(int i) {
                 System.out.println(" Correndo... ");
             }
             void nadar( double metros ){
