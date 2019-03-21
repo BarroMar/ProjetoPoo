@@ -1,4 +1,4 @@
-import Criança;
+import Crianca.Criança;
 
 public class ProjetoPraia {
     public static void main(String args[]) {

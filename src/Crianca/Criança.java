@@ -1,4 +1,6 @@
-    class Criança {
+package Crianca;
+
+class Criança {
 
         String corCabelo;
         String corPele;
