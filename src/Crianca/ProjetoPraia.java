@@ -1,8 +1,8 @@
-import Crianca.Criança;
+package Crianca;
 
 public class ProjetoPraia {
     public static void main(String args[]) {
-        Criança c1 = new Criança();
+        Crianca c1 = new Crianca();
         c1.altura = 1.6;
         c1.corCabelo = "loiro";
         c1.corPele = "Branco";
@@ -11,13 +11,8 @@ public class ProjetoPraia {
         c1.correr(100);
 
 
-
         Agua a1 = new Agua();
         a1.corAgua = "";
-        a1.temperatura "";
-
-
 
     }
 }
-
