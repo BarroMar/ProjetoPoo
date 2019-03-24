@@ -1,5 +1,7 @@
 package Clinica;
 
 public class Clinica {
-    public static void main
+    public static void main(String args[]){
+
+    }
 }
