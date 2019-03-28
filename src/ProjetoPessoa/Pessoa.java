@@ -1,8 +1,8 @@
 package ProjetoPessoa;
 
 public class Pessoa {
-    String nome;
-    String cpf;
+    private String nome;
+    private String cpf;
 
     //construtor
     Pessoa(String nome, String cpf){
